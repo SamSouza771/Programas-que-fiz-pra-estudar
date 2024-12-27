@@ -1,0 +1,14 @@
+C:\dev\binarysearch\bin\Debug\net9.0\binarysearch.exe
+C:\dev\binarysearch\bin\Debug\net9.0\binarysearch.deps.json
+C:\dev\binarysearch\bin\Debug\net9.0\binarysearch.runtimeconfig.json
+C:\dev\binarysearch\bin\Debug\net9.0\binarysearch.dll
+C:\dev\binarysearch\bin\Debug\net9.0\binarysearch.pdb
+C:\dev\binarysearch\obj\Debug\net9.0\binarysearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\binarysearch\obj\Debug\net9.0\binarysearch.AssemblyInfoInputs.cache
+C:\dev\binarysearch\obj\Debug\net9.0\binarysearch.AssemblyInfo.cs
+C:\dev\binarysearch\obj\Debug\net9.0\binarysearch.csproj.CoreCompileInputs.cache
+C:\dev\binarysearch\obj\Debug\net9.0\binarysearch.dll
+C:\dev\binarysearch\obj\Debug\net9.0\refint\binarysearch.dll
+C:\dev\binarysearch\obj\Debug\net9.0\binarysearch.pdb
+C:\dev\binarysearch\obj\Debug\net9.0\binarysearch.genruntimeconfig.cache
+C:\dev\binarysearch\obj\Debug\net9.0\ref\binarysearch.dll
