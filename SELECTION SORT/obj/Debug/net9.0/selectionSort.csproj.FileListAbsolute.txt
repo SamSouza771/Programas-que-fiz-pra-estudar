@@ -1,0 +1,14 @@
+C:\dev\selectionSort\bin\Debug\net9.0\selectionSort.exe
+C:\dev\selectionSort\bin\Debug\net9.0\selectionSort.deps.json
+C:\dev\selectionSort\bin\Debug\net9.0\selectionSort.runtimeconfig.json
+C:\dev\selectionSort\bin\Debug\net9.0\selectionSort.dll
+C:\dev\selectionSort\bin\Debug\net9.0\selectionSort.pdb
+C:\dev\selectionSort\obj\Debug\net9.0\selectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\selectionSort\obj\Debug\net9.0\selectionSort.AssemblyInfoInputs.cache
+C:\dev\selectionSort\obj\Debug\net9.0\selectionSort.AssemblyInfo.cs
+C:\dev\selectionSort\obj\Debug\net9.0\selectionSort.csproj.CoreCompileInputs.cache
+C:\dev\selectionSort\obj\Debug\net9.0\selectionSort.dll
+C:\dev\selectionSort\obj\Debug\net9.0\refint\selectionSort.dll
+C:\dev\selectionSort\obj\Debug\net9.0\selectionSort.pdb
+C:\dev\selectionSort\obj\Debug\net9.0\selectionSort.genruntimeconfig.cache
+C:\dev\selectionSort\obj\Debug\net9.0\ref\selectionSort.dll
