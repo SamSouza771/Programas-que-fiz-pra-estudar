@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("selectionSort")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SISTEMA_MERCADINHO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8262b3a0c84e1e69939303a8d1a2f6bb676b9f8b")]
-[assembly: System.Reflection.AssemblyProductAttribute("selectionSort")]
-[assembly: System.Reflection.AssemblyTitleAttribute("selectionSort")]
+[assembly: System.Reflection.AssemblyProductAttribute("SISTEMA_MERCADINHO")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SISTEMA_MERCADINHO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Programas-que-fiz-pra-estudar\\SELECTION SORT\\selectionSort.csproj": {}
+    "C:\\dev\\Programas-que-fiz-pra-estudar\\SISTEMA_MERCADINHO\\SISTEMA_MERCADINHO.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Programas-que-fiz-pra-estudar\\SELECTION SORT\\selectionSort.csproj": {
+    "C:\\dev\\Programas-que-fiz-pra-estudar\\SISTEMA_MERCADINHO\\SISTEMA_MERCADINHO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Programas-que-fiz-pra-estudar\\SELECTION SORT\\selectionSort.csproj",
-        "projectName": "selectionSort",
-        "projectPath": "C:\\dev\\Programas-que-fiz-pra-estudar\\SELECTION SORT\\selectionSort.csproj",
+        "projectUniqueName": "C:\\dev\\Programas-que-fiz-pra-estudar\\SISTEMA_MERCADINHO\\SISTEMA_MERCADINHO.csproj",
+        "projectName": "SISTEMA_MERCADINHO",
+        "projectPath": "C:\\dev\\Programas-que-fiz-pra-estudar\\SISTEMA_MERCADINHO\\SISTEMA_MERCADINHO.csproj",
         "packagesPath": "C:\\Users\\SAM\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Programas-que-fiz-pra-estudar\\SELECTION SORT\\obj\\",
+        "outputPath": "C:\\dev\\Programas-que-fiz-pra-estudar\\SISTEMA_MERCADINHO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SAM\\AppData\\Roaming\\NuGet\\NuGet.Config"

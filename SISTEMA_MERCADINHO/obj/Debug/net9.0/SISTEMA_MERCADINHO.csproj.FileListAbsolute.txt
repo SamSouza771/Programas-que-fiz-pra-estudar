@@ -1,0 +1,15 @@
+C:\dev\Programas-que-fiz-pra-estudar\SISTEMA_MERCADINHO\bin\Debug\net9.0\SISTEMA_MERCADINHO.exe
+C:\dev\Programas-que-fiz-pra-estudar\SISTEMA_MERCADINHO\bin\Debug\net9.0\SISTEMA_MERCADINHO.deps.json
+C:\dev\Programas-que-fiz-pra-estudar\SISTEMA_MERCADINHO\bin\Debug\net9.0\SISTEMA_MERCADINHO.runtimeconfig.json
+C:\dev\Programas-que-fiz-pra-estudar\SISTEMA_MERCADINHO\bin\Debug\net9.0\SISTEMA_MERCADINHO.dll
+C:\dev\Programas-que-fiz-pra-estudar\SISTEMA_MERCADINHO\bin\Debug\net9.0\SISTEMA_MERCADINHO.pdb
+C:\dev\Programas-que-fiz-pra-estudar\SISTEMA_MERCADINHO\obj\Debug\net9.0\SISTEMA_MERCADINHO.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Programas-que-fiz-pra-estudar\SISTEMA_MERCADINHO\obj\Debug\net9.0\SISTEMA_MERCADINHO.AssemblyInfoInputs.cache
+C:\dev\Programas-que-fiz-pra-estudar\SISTEMA_MERCADINHO\obj\Debug\net9.0\SISTEMA_MERCADINHO.AssemblyInfo.cs
+C:\dev\Programas-que-fiz-pra-estudar\SISTEMA_MERCADINHO\obj\Debug\net9.0\SISTEMA_MERCADINHO.csproj.CoreCompileInputs.cache
+C:\dev\Programas-que-fiz-pra-estudar\SISTEMA_MERCADINHO\obj\Debug\net9.0\SISTEMA_MERCADINHO.sourcelink.json
+C:\dev\Programas-que-fiz-pra-estudar\SISTEMA_MERCADINHO\obj\Debug\net9.0\SISTEMA_MERCADINHO.dll
+C:\dev\Programas-que-fiz-pra-estudar\SISTEMA_MERCADINHO\obj\Debug\net9.0\refint\SISTEMA_MERCADINHO.dll
+C:\dev\Programas-que-fiz-pra-estudar\SISTEMA_MERCADINHO\obj\Debug\net9.0\SISTEMA_MERCADINHO.pdb
+C:\dev\Programas-que-fiz-pra-estudar\SISTEMA_MERCADINHO\obj\Debug\net9.0\SISTEMA_MERCADINHO.genruntimeconfig.cache
+C:\dev\Programas-que-fiz-pra-estudar\SISTEMA_MERCADINHO\obj\Debug\net9.0\ref\SISTEMA_MERCADINHO.dll
